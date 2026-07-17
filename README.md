@@ -4,10 +4,10 @@
   Financial services &amp; capital markets · 21 years building enterprise data platforms
 </p>
 <p align="center">
+  <a href="https://vnugny.github.io">🌐 Portfolio site</a> ·
   <a href="https://www.linkedin.com/in/venu-gopal-kurella-79094617/">LinkedIn</a> ·
   <a href="mailto:venugkurella@gmail.com">venugkurella@gmail.com</a> ·
   <a href="#experience">Experience</a> ·
-  <a href="#modern-data-platform-portfolio">Portfolio</a> ·
   <a href="#lets-talk">Contact</a>
 </p>
 
