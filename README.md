@@ -6,9 +6,8 @@
 <p align="center">
   <a href="https://vnugny.github.io">🌐 Portfolio site</a> ·
   <a href="https://www.linkedin.com/in/venu-gopal-kurella-79094617/">LinkedIn</a> ·
-  <a href="mailto:venugkurella@gmail.com">venugkurella@gmail.com</a> ·
-  <a href="#experience">Experience</a> ·
-  <a href="#lets-talk">Contact</a>
+  <a href="#lets-talk">Contact</a> ·
+  <a href="#experience">Experience</a>
 </p>
 
 ---
@@ -43,7 +42,7 @@ while improving trust, governance, and operating discipline.
 
 **Staff / Principal / Senior Data Engineer**, **Data Platform Architect**, and **Data Quality / Platform Lead**
 roles — remote or NJ/NYC metro. Happy to talk data platforms, streaming, data quality, or financial-data
-systems. Reach me at **venugkurella@gmail.com**.
+systems. Reach me at **venugkurella@gmail.com**, **venukurella@gmail.com**, or **vnugny@gmail.com**.
 
 ## Modern Data Platform Portfolio
 
@@ -126,8 +125,10 @@ flowchart TB
 
 I'm always glad to talk data platforms, streaming, data quality, or financial-data systems.
 
-- 📧 **venugkurella@gmail.com**
+- 📧 **venugkurella@gmail.com** · **venukurella@gmail.com** · **vnugny@gmail.com**
+- ☎️ **(732) 610-4341** · **(223) 237-7457**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/venu-gopal-kurella-79094617/)**
+- 🌐 **[vnugny.github.io](https://vnugny.github.io)**
 - 💻 **[github.com/vnugny](https://github.com/vnugny)**
 
 <sub>Detailed resume available on request.</sub>
