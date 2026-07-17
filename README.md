@@ -44,6 +44,18 @@ while improving trust, governance, and operating discipline.
 roles — remote or NJ/NYC metro. Happy to talk data platforms, streaming, data quality, or financial-data
 systems. Reach me at **venugkurella@gmail.com**, **venukurella@gmail.com**, or **vnugny@gmail.com**.
 
+## 🚀 Flagship — Quants, a live AI-native risk engine
+
+**🟢 Live at [quants-riskengine.com](https://quants-riskengine.com)** · source private
+
+A financial risk-analytics platform I designed, built, deployed, and operate end-to-end. Ask risk
+questions in plain English and get institutional-grade analytics back — Quants connects real risk
+models (VaR/CVaR, factor risk, stress testing, portfolio optimization, options Greeks) to a large
+language model via Anthropic's **Model Context Protocol**, exposing **43 analytics tools** alongside
+an **11-tab** interactive dashboard and an ML / forecasting / regime layer.
+
+`MCP (Anthropic)` · `Risk · VaR/CVaR` · `Options Greeks` · `Portfolio optimization` · `LLM tool-use` · `Python` · `Streamlit`
+
 ## Modern Data Platform Portfolio
 
 Beyond my professional work, I maintain a public, CI-verified portfolio. These seven repositories
