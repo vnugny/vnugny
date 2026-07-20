@@ -51,10 +51,13 @@ systems. Reach me at **venugkurella@gmail.com**, **venukurella@gmail.com**, or *
 A financial risk-analytics platform I designed, built, deployed, and operate end-to-end. Ask risk
 questions in plain English and get institutional-grade analytics back — Quants connects real risk
 models (VaR/CVaR, factor risk, stress testing, portfolio optimization, options Greeks) to a large
-language model via Anthropic's **Model Context Protocol**, exposing **43 analytics tools** alongside
-an **11-tab** interactive dashboard and an ML / forecasting / regime layer.
+language model via Anthropic's **Model Context Protocol**, exposing **48 analytics tools** alongside
+a **12-tab** interactive dashboard and an ML / forecasting / regime layer. It now includes a full
+**buy-side risk workbench** — benchmark-relative risk (tracking error, active exposures), risk &
+return attribution, and a constraint / cost / Black-Litterman optimizer — with its analytics core
+**cross-checked against QuantLib (the engine ORE is built on) to machine precision**.
 
-`MCP (Anthropic)` · `Risk · VaR/CVaR` · `Options Greeks` · `Portfolio optimization` · `LLM tool-use` · `Python` · `Streamlit`
+`MCP (Anthropic)` · `Risk · VaR/CVaR` · `Attribution` · `Black-Litterman` · `QuantLib-validated` · `Python` · `Streamlit`
 
 ## Modern Data Platform Portfolio
 
