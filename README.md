@@ -21,11 +21,12 @@ self-service tooling around them. My day job is enterprise financial data (curre
 **Bloomberg**; previously **Credit Suisse, Wells Fargo, HPE, Cox Automotive, Franklin
 Templeton**), where correctness, lineage, validation, and regulatory confidence are the whole game.
 
-I operate at the **staff/principal** level: I set data-engineering standards, own architecture
-across teams, and stay hands-on in the codebase. Over my career I've led teams of up to **13
-engineers**, delivered multi-year data-modernization programs, and worked across regulated data
-domains — trades, sensitivities, positions, collateral, counterparty, securities, and regulatory
-reporting.
+I'm a **hands-on engineer first** — I design, build, and ship production code every day, and the
+repos below are the public proof. I also bring the wider range when the role calls for it: setting
+data-engineering standards, owning architecture across teams, mentoring, and leading teams of up
+to **13 engineers** through multi-year data-modernization programs across regulated data domains —
+trades, sensitivities, positions, collateral, counterparty, securities, and regulatory reporting.
+Senior IC, tech lead, or staff scope: I own the problem end to end and ship it.
 
 The through-line in my work: I don't just ship one-off pipelines. I build **reliable data
 products, reusable engineering patterns, and platform capabilities** that make other teams faster
@@ -40,8 +41,8 @@ while improving trust, governance, and operating discipline.
 
 ## 🎯 Open to
 
-**Staff / Principal / Senior Data Engineer**, **Data Platform Architect**, and **Data Quality / Platform Lead**
-roles — remote or NJ/NYC metro. Happy to talk data platforms, streaming, data quality, or financial-data
+**Senior / Staff / Principal Data Engineer** (IC or lead), **Data Platform Architect**, and
+**Data Quality / Platform Lead** roles — remote or NJ/NYC metro. Happy to talk data platforms, streaming, data quality, or financial-data
 systems. Reach me at **venugkurella@gmail.com**, **venukurella@gmail.com**, or **vnugny@gmail.com**.
 
 ## 🚀 Flagship — Quants, a live AI-native risk engine
